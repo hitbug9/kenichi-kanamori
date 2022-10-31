@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "78ba4662f61a440ed2832af9a1ce72ce",
+    "revision": "488ba6ce3259a83dcd7006feee2a8f6f",
     "url": "/kenichi-kanamori/index.html"
   },
   {

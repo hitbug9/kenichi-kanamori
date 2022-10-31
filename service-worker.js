@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kenichi-kanamori/precache-manifest.fa2100278977212233550b5eed312079.js"
+  "/kenichi-kanamori/precache-manifest.b783956bcd682175eee57bc563436fb5.js"
 );
 
 self.addEventListener('message', (event) => {
