@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hi \uD83D\uDC4B",
+      "description": "I'm Kenichi Kanamori. I'm a Full-Stack JavaScript Engineer with a focus on front-end frameworks such as React and Next.js, in addition to Node-powered back-end dovetailed with REST and GraphQL APIs. I delivered over 20 projects for startups, digital agencies, and tech companies. I contribute exceptional value as projects progress from start to finish while adding new features to existing products. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,107 +11,144 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Stackbit",
+        "startDate": "2019",
+        "description": "Stackbit is a website builder that helps developers of any level to build their own Jamstack sites based on Next.js and Tailwind, fast. I designed best practices and patterns to use to solve complex flows in React projects. Also I worked on fixing various issues and bugs and implemented new features for enterprise clients.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/stackbit/p1.png"
         ],
-        "url": "",
+        "url": "https://app.stackbit.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-plain",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-nextjs-plain",
+            "name": "Next.js"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
           }
         ]
       },
       {
-        "title": "Photography",
+        "title": "Nash",
         "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "A cryptocurrency exchange platform. Joined the project as a React developer and worked on implementing a design system and portfolio management and payment systems.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/nash/p1.png"
         ],
-        "url": "https://github.com",
+        "url": "https://app.nash.io",
         "technologies": [
           {
             "class": "devicon-react-original",
             "name": "React"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
             "class": "devicon-typescript-plain",
             "name": "TypeScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-graphql-plain",
+            "name": "GraphQL"
+          },
+          {
+            "class": "devicon-storybook-plain",
+            "name": "Storybook"
+          }
+        ]
+      },
+      {
+        "title": "Fastswims",
+        "startDate": "2017",
+        "description": "Event management platform for managing swimming teams and swimming competitions. I designed a new user interface based on customers’ prototypes and built a functional prototype.",
+        "images": [
+          "images/portfolio/fastswims/p1.png"
+        ],
+        "url": "https://app.fastswims.com",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-redux-plain",
+            "name": "Redux"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
+        "company": "SF AppWorks",
+        "title": "Full Stack Engineer",
+        "years": "06.2019 - 03.2022",
+        "mainTech": [],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "React",
+          "Redux",
+          "Node.js",
+          "Express",
+          "MongoDB",
+          "PostgreSQL",
+          "MySQL",
+          "Next.js",
+          "Tailwind CSS",
+          "Single-page Applications (SPA)",
+          "web3.js",
+          "Amazon Web Services",
+          "Heroku",
+          "Responsive Design",
+          "Storybook",
+          "API",
+          "HTML5",
+          "CSS 3"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
+        "company": "Scopic",
+        "title": "React Developer",
+        "years": "05.2018 - 05.2019",
+        "mainTech": [],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
           "JavaScript",
-          "DHTMLX Gantt"
+          "React",
+          "Redux (Redux-Saga)",
+          "Gatsby.js",
+          "GraphQL",
+          "TypeScript"
+        ]
+      },
+      {
+        "company": "Quisitive",
+        "title": "Full Stack Developer",
+        "years": "04.2017 - 05.2018",
+        "mainTech": [],
+        "technologies": [
+          "JavaScript",
+          "Node.js",
+          "React",
+          "Redux",
+          "jQuery",
+          "Bootstrap",
+          "SCSS",
+          "Webpack",
+          "API",
+          "Heroku",
+          "AWS S3",
+          "PostgreSQL",
+          "SVG"
         ]
       }
     ]
