@@ -1,0 +1,118 @@
+{
+  "basic_info": {
+    "name": "Kenichi Kanamori",
+    "titles": [
+      "Full-Stack JavaScript Engineer"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/hitbug9",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://linkedin.com/kenichi-kanamori",
+        "class": "fab fa-linkedin"
+      },
+      {
+        "name": "email",
+        "url": "mailto:kenichi.kanamori9@gmail.com",
+        "class": "fas fa-envelope"
+      }
+    ],
+    "image": "GitHub.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "React",
+        "class": "devicon-react-original"
+      },
+      {
+        "name": "Redux",
+        "class": "devicon-redux-original"
+      },
+      {
+        "name": "Next.js",
+        "class": "devicon-nextjs-original"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-original"
+      },
+      {
+        "name": "jQuery",
+        "class": "devicon-jquery-plain"
+      },
+      {
+        "name": "Webpack",
+        "class": "devicon-webpack-plain"
+      },
+      {
+        "name": "Sass",
+        "class": "devicon-sass-original"
+      },
+      {
+        "name": "Tailwind CSS",
+        "class": "devicon-tailwindcss-plain"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain"
+      },
+      {
+        "name": "Material UI",
+        "class": "devicon-materialui-plain"
+      },
+      {
+        "name": "Node.js",
+        "class": "devicon-nodejs-plain"
+      },
+      {
+        "name": "Express",
+        "class": "devicon-express-original"
+      },
+      {
+        "name": "MongoDB",
+        "class": "devicon-mongodb-plain"
+      },
+      {
+        "name": "PostgreSQL",
+        "class": "devicon-postgresql-plain"
+      },
+      {
+        "name": "MySql",
+        "class": "devicon-mysql-plain"
+      },
+      {
+        "name": "GraphQL",
+        "class": "devicon-graphql-plain"
+      },
+      {
+        "name": "AWS",
+        "class": "devicon-amazonwebservices-original"
+      },
+      {
+        "name": "Firebase",
+        "class": "devicon-firebase-plain"
+      },
+      {
+        "name": "Heroku",
+        "class": "devicon-heroku-original"
+      },
+      {
+        "name": "Docker",
+        "class": "devicon-docker-plain"
+      },
+      {
+        "name": "Kubernetes",
+        "class": "devicon-kubernetes-plain"
+      }
+    ]
+  }
+}
